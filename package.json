@@ -20,7 +20,7 @@
   "devDependencies": {
     "eslint": "^4.3.0",
     "eslint-plugin-react": "^7.1.0",
-    "mocha": "^3.4.2",
+    "mocha": "^10.2.0",
     "nock": "^9.0.14",
     "watson-developer-cloud": "^2.36.0"
   }
